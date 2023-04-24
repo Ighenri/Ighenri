@@ -36,8 +36,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/henry-igwe-8bba751b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:igwehenry740@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/henry-igwe-8bba751b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Henry%20Igwe%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:igwehenry740@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Igwehenry740@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️
