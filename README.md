@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; I am a Frontend Web Developer.
 - 🎓 &nbsp; Exploring new technologies and developing websites using HTML5, CSS3, Tailwind, JavaScript.
-- 💼 &nbsp; I'm Open to internship, learning and Collaboration.
+- 💼 &nbsp; I'm open to Internship, Learning and Collaboration.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
