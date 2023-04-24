@@ -3,8 +3,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 - 🤔 &nbsp; I am a Frontend Web Developer.
 - 🎓 &nbsp; Exploring new technologies and developing websites using HTML5, CSS3, Tailwind, JavaScript.
 - 💼 &nbsp; I'm Open to internship, learning and Collaboration.
@@ -40,6 +38,7 @@
 
 <a href="https://www.linkedin.com/in/henry-igwe-8bba751b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Henry%20Igwe%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:igwehenry740@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Igwehenry740@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/henryIgweDev)
 </p>
 
 ⭐️
