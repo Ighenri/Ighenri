@@ -2,10 +2,12 @@
 <h2> Hey there! I'm Henry Igwe 👋.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- ✍️ &nbsp; I am a Frontend Web Developer.
-- 🤔 &nbsp; Exploring new technologies and developing websites using HTML5, CSS3, Tailwind, JavaScript.
-- 🎓 &nbsp; i'm Open to internship, learning and Collaboration.
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; I am a Frontend Web Developer.
+- 🎓 &nbsp; Exploring new technologies and developing websites using HTML5, CSS3, Tailwind, JavaScript.
+- 💼 &nbsp; I'm Open to internship, learning and Collaboration.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
