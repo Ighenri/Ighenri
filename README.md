@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/Ighenri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Ighenri=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ighenri&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ighenri&theme=buefy&layout=compact" />
 </a>
 
 <br/>
