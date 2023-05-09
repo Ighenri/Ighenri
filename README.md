@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I am a Frontend Web Developer.
-- 🎓 &nbsp; Exploring new technologies and developing websites using HTML5, CSS3, Tailwind, JavaScript.
+- 🎓 &nbsp; Exploring new technologies and developing websites using HTML5, CSS3, Tailwindcss, JavaScript.
 - 💼 &nbsp; I'm open to Internship, Learning and Collaboration.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
